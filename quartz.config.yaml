@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: "ravindrakumarreddy57-lang.github.io/my-quiz-site"
   ignorePatterns:
     - private
     - templates
